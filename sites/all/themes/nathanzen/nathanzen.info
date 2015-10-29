@@ -11,8 +11,8 @@
 ; The name, description and screenshot used for this theme on the Appearance
 ; page at admin/appearance.
 
-screenshot  = screenshot.png
-name        = Zen Sub-theme Starter Kit
+screenshot  = ftv.png
+name        = Nathan-Zen
 description = A sub-theme based on zen.
 
 
